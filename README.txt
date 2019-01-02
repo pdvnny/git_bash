@@ -1,6 +1,6 @@
 Hello Git and GitHub!
 
-License and .gitlost files incoming (soon) ...
+License and .gitignore files incoming (soon) ...
 
 Description:
 
